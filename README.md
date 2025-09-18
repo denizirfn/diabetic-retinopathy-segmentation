@@ -56,9 +56,10 @@ Aşağıda, rapordan seçilmiş bazı örnek segmentasyon görüntüleri verilmi
 
 ---
 
-📄 Daha fazla görsel ve detaylı açıklama için rapora göz atın:  
-[**Bitirme-1_FinalRapor.pdf**](docs/Bitirme-1_FinalRapor_1docx.pdf
-)
+
+📄 Daha fazla görsel ve detay için:  
+[📥 Bitirme-1_FinalRapor_1docx.pdf (indir)](https://github.com/<kullanici>/<repo>/raw/main/docs/Bitirme-1_FinalRapor_1docx.pdf)
+
 
 ---
 
