@@ -42,7 +42,7 @@ Bu depoda çıktı klasörü yoktur. Segmentasyon sonuçlarının tüm örnekler
 | Eksudatlar               | Şekil 9             |
 
 
-👉 Bu görsellere erişmek için: [rapor] docs/Bitirme-1_FinalRapor.pdf
+👉 Bu görsellere erişmek için: [rapor] (./docs/Bitirme-1_FinalRapor.pdf)
 
 🔬 Metodoloji (Özet)
 Projedeki temel adımlar:
