@@ -1,6 +1,6 @@
 # 🩺 Diabetic Retinopathy & Glaucoma Segmentation  
 **Fundus (retina) görüntülerinden optik disk, damar, mikroanevrizma ve eksuda segmentasyonu**  
-*Konya Teknik Üniversitesi – Bilgisayar Mühendisliği Bitirme Projesi*
+*Konya Teknik Üniversitesi – Bilgisayar Mühendisliği Bitirme Projesi Final 1 *
 
 ---
 
@@ -57,7 +57,7 @@ Aşağıda, rapordan seçilmiş bazı örnek segmentasyon görüntüleri verilmi
 ---
 
 📄 Daha fazla görsel ve detaylı açıklama için rapora göz atın:  
-[**Bitirme-1_FinalRapor.pdf**](Bitirme-1_FinalRapor.pdf)
+[**Bitirme-1_FinalRapor.pdf**](docs/Bitirme-1_FinalRapor.pdf)
 
 ---
 
