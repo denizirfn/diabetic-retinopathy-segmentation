@@ -35,6 +35,8 @@ Bu proje, **göz hastalıklarının erken teşhisi** için fundus görüntüleri
 Bu depoda çıktı klasörü yoktur. Segmentasyon sonuçlarının tüm örnekleri bitirme raporunda ayrıntılı olarak yer almaktadır:
 
 | Segmentasyon Adımı  ve Rapor Görselleri (PDF) 
+
+
 Optik Disk Segmentasyonu
    <img width="1050" height="533" alt="image" src="https://github.com/user-attachments/assets/838dd68a-2c39-475c-8160-41b8eb94fd67" />
 
@@ -59,41 +61,21 @@ Eksudatlar
 Projedeki temel adımlar:
 
 Optik Disk Segmentasyonu
-
-Kırmızı kanal seçimi, CLAHE, K-means kümeleme ve morfolojik açma-kapama işlemleri
+  .Kırmızı kanal seçimi, CLAHE, K-means kümeleme ve morfolojik açma-kapama işlemleri
 
 Kan Damarlarının Çıkarılması
-
-Yeşil kanal, median/gaussian filtreleme, CLAHE ve ikili eşikleme
+  .Yeşil kanal, median/gaussian filtreleme, CLAHE ve ikili eşikleme
 
 Mikroanevrizma Tespiti
-
-CLAHE + gamma düzeltme, Otsu eşikleme, top-hat morfolojisi
+  .CLAHE + gamma düzeltme, Otsu eşikleme, top-hat morfolojisi
 
 Eksudat Segmentasyonu
-
-K-means kümeleme ve Canny kenar tespiti ile büyük ve küçük eksudaların birleştirilmesi
-
+  .K-means kümeleme ve Canny kenar tespiti ile büyük ve küçük eksudaların birleştirilmesi
 
 
-📚 Kaynakça
-Bu proje aşağıdaki çalışmalardan ilham almıştır (raporda ayrıntılı liste):
-
-Melo et al., Computers in Biology and Medicine, 2020
-
-Tanyıldızı & Okur, Fırat Üniversitesi Müh. Bilimleri Dergisi, 2016
-
-Maison et al., Journal of Physics: Conference Series, 2019
-
-Spencer et al., Computers and Biomedical Research, 1996
-
-Sreng et al., IEEE Conference on Biomedical Engineering, 2017
-
-ve diğerleri… (detaylar için docs/Bitirme-1_FinalRapor.pdf dosyasına bakınız)
 
 🏫 Proje Bilgileri
 Üniversite: Konya Teknik Üniversitesi – Bilgisayar Mühendisliği
-Bitirme projesi -Final1 projesi 
+Bitirme projesi -Final 1 projesi 
 
-📜 Lisans
-Bu proje MIT Lisansı ile sunulmuştur. Ayrıntılar için LICENSE dosyasına bakınız.
+
