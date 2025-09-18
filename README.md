@@ -57,7 +57,8 @@ Aşağıda, rapordan seçilmiş bazı örnek segmentasyon görüntüleri verilmi
 ---
 
 📄 Daha fazla görsel ve detaylı açıklama için rapora göz atın:  
-[**Bitirme-1_FinalRapor.pdf**](docs/Bitirme-1_FinalRapor.pdf)
+[**Bitirme-1_FinalRapor.pdf**](docs/Bitirme-1_FinalRapor_1docx.pdf
+)
 
 ---
 
