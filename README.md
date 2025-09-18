@@ -30,39 +30,17 @@ Bu proje, **göz hastalıklarının erken teşhisi** için fundus görüntüleri
   - Segmentasyon sonrası görsel sonuçların karşılaştırılması
 
 ---
-
-## 🗂️ Proje Yapısı (Önerilen)
-diabetic-retinopathy-segmentation/
-│
-├─ src/
-│ ├─ # Optik disk, damar, mikroanevrizma, eksuda kodları
-├─ samples/ # Veri setinden izinli örnek fundus görselleri
-├─ outputs/ # Segmentasyon maskeleri ve sonuç görselleri
-├─ docs/ # Bitirme raporu ve diyagramlar
-│
-├─ requirements.txt
-├─ README.md
-└─ .gitignore
-
----
-
-## 🚀 Kurulum
-```bash
-git clone https://github.com/<kullanici_adi>/diabetic-retinopathy-segmentation.git
-cd diabetic-retinopathy-segmentation
-pip install -r requirements.txt
-Gereken Kütüphaneler
-Python 3.10+
-opencv-python
-numpy
-scikit-image
-scikit-learn
-matplotlib
-
 🖼️ Örnek Sonuçlar
-Girdi Fundus Görseli	Optik Disk Maskesi	Kan Damarları	Mikroanevrizmalar
 
-(Bu görseller, IDRiD veri setinden alınan küçük örneklerden türetilmiş maskeleri göstermektedir.)
+Bu depoda çıktı klasörü yoktur. Segmentasyon sonuçlarının tüm örnekleri bitirme raporunda ayrıntılı olarak yer almaktadır:
+
+Segmentasyon Adımı	Rapor Görseli (PDF)
+Optik Disk Segmentasyonu	Şekil 6
+Kan Damarları	Şekil 7
+Mikroanevrizmalar	Şekil 8
+Eksudatlar	Şekil 9
+
+👉 Bu görsellere erişmek için: docs/Bitirme-1_FinalRapor.pdf
 
 🔬 Metodoloji (Özet)
 Projedeki temel adımlar:
