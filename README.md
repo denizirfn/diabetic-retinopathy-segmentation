@@ -58,7 +58,7 @@ Aşağıda, rapordan seçilmiş bazı örnek segmentasyon görüntüleri verilmi
 
 
 📄 Daha fazla görsel ve detay için:  
-[📥 Bitirme-1_FinalRapor_1docx.pdf (indir)](https://github.com/<kullanici>/<repo>/raw/main/docs/Bitirme-1_FinalRapor_1docx.pdf)
+[📥 Bitirme-1_FinalRapor_1docx.pdf (indir)](https://github.com/<denizirfn>/<diabetic-retinopathy-segmentation>/raw/main/docs/Bitirme-1_FinalRapor_1docx.pdf)
 
 
 ---
