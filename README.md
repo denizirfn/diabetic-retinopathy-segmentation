@@ -34,13 +34,15 @@ Bu proje, **göz hastalıklarının erken teşhisi** için fundus görüntüleri
 
 Bu depoda çıktı klasörü yoktur. Segmentasyon sonuçlarının tüm örnekleri bitirme raporunda ayrıntılı olarak yer almaktadır:
 
-Segmentasyon Adımı	Rapor Görseli (PDF)
-Optik Disk Segmentasyonu	Şekil 6
-Kan Damarları	Şekil 7
-Mikroanevrizmalar	Şekil 8
-Eksudatlar	Şekil 9
+| Segmentasyon Adımı       | Rapor Görseli (PDF) |
+| ------------------------ | ------------------- |
+| Optik Disk Segmentasyonu | Şekil 6             |
+| Kan Damarları            | Şekil 7             |
+| Mikroanevrizmalar        | Şekil 8             |
+| Eksudatlar               | Şekil 9             |
 
-👉 Bu görsellere erişmek için: docs/Bitirme-1_FinalRapor.pdf
+
+👉 Bu görsellere erişmek için: [rapor] docs/Bitirme-1_FinalRapor.pdf
 
 🔬 Metodoloji (Özet)
 Projedeki temel adımlar:
